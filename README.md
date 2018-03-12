@@ -1,6 +1,5 @@
 # smmr_code
-Code and data used in the article ["Reference-free error estimation for multiple measurement"]
-(https://doi.org/10.1177/0962280217754231)
+Code and data used in the article ["Reference-free error estimation for multiple measurement methods"](https://doi.org/10.1177/0962280217754231)
 
 Documentation pending. If you want to speed things up, please ping me by raising
 an issue.
